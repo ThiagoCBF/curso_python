@@ -1,4 +1,4 @@
-
+#Exercício multiplica numeros uns com outros
 
 
 def multiplica(*args):
@@ -9,6 +9,8 @@ def multiplica(*args):
     
 multiplicacao = multiplica(1, 2, 3, 4, 5)
 print(multiplicacao)
+
+#Exercício Função define se é ímpar ou par
 
 def impar(x):
     par = x % 2 ==0
